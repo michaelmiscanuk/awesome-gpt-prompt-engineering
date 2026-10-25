@@ -26,6 +26,7 @@ Consider giving it a ⭐️ if you like it to show your support!
 ## Roadmaps
 
 - [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering?): Step by step guide to learning Prompt Engineering.
+- [Prompt Engineering & Everyday AI Roadmap (CheatGrid)](https://www.cheatgrid.com/roadmaps/prompt-engineering): Free 13-step roadmap from generative AI basics to advanced prompting, each step a cheat sheet with flashcards.
 
 <a href="#guides">
 	<img src="https://github.com/snwfdhmp/awesome-gpt-prompt-engineering/blob/main/assets/roadmap.png?raw=true" width="700">
